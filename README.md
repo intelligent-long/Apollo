@@ -14,7 +14,7 @@
 - 完善的消息软件功能
 - 可自托管
 
-快让“爱国”来向我学习什么是美，什么是美的UI
+让“爱国”来向我学习什么是美的UI
 
 <h3>
   <a href="https://github.com/intelligent-long/Apollo/releases">下载</a>
