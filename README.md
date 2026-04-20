@@ -19,5 +19,5 @@
 </h3>
 
 <h3>
-  <a href="http://apollo.龍.icu">网站</a>
+  <a href="apollo.龍.icu">网站</a>
 </h3>
