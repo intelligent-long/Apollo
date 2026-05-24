@@ -2,7 +2,7 @@
 
 > 被精神分裂症（树苗嫁接）开发的通讯软件
 
-<p align="center">
+<p align="start">
   <img width="90" height="90" src="imessage-icon.svg" />
 </p>
 
