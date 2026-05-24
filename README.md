@@ -1,8 +1,12 @@
-<img width="90" height="90" src="imessage-icon.svg" />
-
 # Apollo
 
-> 被精神分裂症（器官移植）开发的通讯软件
+> 被精神分裂症（树苗嫁接）开发的通讯软件
+
+<p align="start">
+  <img width="90" height="90" src="imessage-icon.svg" />
+</p>
+
+## 代码
 
 > 约 10 万行代码
 
