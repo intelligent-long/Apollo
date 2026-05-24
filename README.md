@@ -1,4 +1,4 @@
-<div align="start">
+<div align="center">
 
 # Apollo
 
@@ -13,7 +13,10 @@
 
 > 约 10 万行代码
 
-<h3>   <a href="https://github.com/intelligent-long/Apollo/releases">下载</a> </h3> <h3> <a href="http://apollo.龍.icu">网站</a> </h3>
+<br>
+
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/intelligent-long/Apollo/releases)
+[![Website](https://img.shields.io/badge/Website-Apollo-green?style=for-the-badge)](http://apollo.龍.icu)
 
 </div>
 
