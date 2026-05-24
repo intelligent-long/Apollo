@@ -6,11 +6,7 @@
   <img width="90" height="90" src="imessage-icon.svg" />
 </p>
 
-## 代码数量
-
-> 10万行
-
-## 特性
+> 约 10 万行代码
 
 - 完善的功能
 - 可自托管
