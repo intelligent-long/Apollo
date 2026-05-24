@@ -2,11 +2,11 @@
 
 > 被精神分裂症（树苗嫁接）开发的通讯软件
 
-> 约 10 万行代码
-
 <p align="start">
   <img width="90" height="90" src="imessage-icon.svg" />
 </p>
+
+> 约 10 万行代码
 
 ## 特性
 - 完善的功能
