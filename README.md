@@ -2,13 +2,13 @@
 
 # Apollo
 
-> 被精神分裂症（树苗嫁接）开发的通讯软件
-
-> 约 10 万行代码
+<img width="90" height="90" src="imessage-icon.svg" alt="Apollo Icon" />
 
 <br>
 
-<img width="90" height="90" src="imessage-icon.svg" alt="Apollo Icon" />
+> 被精神分裂症（树苗嫁接）开发的通讯软件
+
+> 约 10 万行代码
 
 <br>
 
