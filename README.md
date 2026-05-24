@@ -15,7 +15,7 @@
 
 <br>
 
-<h3>   <a href="https://github.com/intelligent-long/Apollo/releases">下载</a> </h3> <h3>   <a href="http://apollo.龍.icu">网站</a> </h3>
+<h3>   <a href="https://github.com/intelligent-long/Apollo/releases">下载</a> <a href="http://apollo.龍.icu">网站</a> </h3>
 
 </div>
 
