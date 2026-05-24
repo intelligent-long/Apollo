@@ -3,7 +3,7 @@
 > 被精神分裂症（树苗嫁接）开发的通讯软件
 
 <p align="center">
-  <img width="70%" src="imessage-icon.svg" />
+  <img width="90" height="90" src="imessage-icon.svg" />
 </p>
 
 ## 代码数量
