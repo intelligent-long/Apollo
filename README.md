@@ -1,21 +1,28 @@
+<div align="center">
+
 # Apollo
 
 > 被精神分裂症（树苗嫁接）开发的通讯软件
 
-<p align="start">
-  <img width="90" height="90" src="imessage-icon.svg" />
-</p>
+<br>
+
+<img width="90" height="90" src="imessage-icon.svg" alt="Apollo Icon" />
+
+<br>
+<br>
 
 > 约 10 万行代码
 
-## 特性
+<br>
+
+[![Download](https://img.shields.io/badge/Download-Releases-blue?style=for-the-badge)](https://github.com/intelligent-long/Apollo/releases)
+[![Website](https://img.shields.io/badge/Website-Apollo-green?style=for-the-badge)](http://apollo.龍.icu)
+
+</div>
+
+---
+
+## ✨ 特性
+
 - 完善的功能
 - 可自托管
-
-<h3>
-  <a href="https://github.com/intelligent-long/Apollo/releases">下载</a>
-</h3>
-
-<h3>
-  <a href="http://apollo.龍.icu">网站</a>
-</h3>
