@@ -6,15 +6,15 @@
 
 > 被精神分裂症（树苗嫁接）开发的通讯软件
 
-## 代码
-
-> 约 10 万行代码
-
 <h3>   <a href="https://github.com/intelligent-long/Apollo/releases">下载</a> </h3> <h3>   <a href="http://apollo.龍.icu">网站</a> </h3>
 
 </div>
 
 ---
+
+## 代码
+
+> 约 10 万行代码
 
 ## 特性
 
