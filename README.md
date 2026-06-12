@@ -23,7 +23,7 @@
 2.安装 MySQL, Redis, MinIO </br>
 3.解压服务端部署压缩包 </br>
 4.运行 [ java -jar 程序文件.jar -dr ] 获得部署文件，或者直接从压缩包得到部署文件 </br>
-5.创建数据库，执行 apollo.sql 文件，初始化数据库结构 </br>
+5.在 MySQL 中创建数据库，执行 apollo.sql 文件，初始化数据库结构 </br>
 6.将 apollo-server-properties.json 文件复制到与 jar 文件同级目录，双击 jar 文件运行，填写内容，运行服务端。如果是命令行，填写 apollo-server-properties.json 内容，执行 [ java -jar 程序文件.jar -cli apollo-server-properties.json ] ，运行服务端 </br>
 7.安装客户端，连接服务端
 
