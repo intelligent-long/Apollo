@@ -20,7 +20,7 @@
 
 ### 部署流程
 1. 安装 Java，兼容版本：Java 21
-2. 安装 MySQL, Redis, MinIO
+2. 安装运行 MySQL, Redis, MinIO
 3. 解压服务端部署压缩包
 4. 运行 `java -jar 程序文件.jar -dr` 获得部署文件，或者直接从压缩包得到部署文件
 5. 在 MySQL 中创建数据库，执行 apollo.sql 文件，初始化数据库结构
