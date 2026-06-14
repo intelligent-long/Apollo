@@ -1,4 +1,6 @@
-<img width="90" height="90" src="imessage-icon.svg" alt="Apollo Icon" />
+<p align="center">
+  <img width="90" height="90" src="imessage-icon.svg" alt="Apollo Icon" />
+</p>
 
 ## Apollo
 
