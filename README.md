@@ -4,9 +4,7 @@
 
 > 被精神分裂症（树苗嫁接）开发的通讯软件，功能完善，界面美观
 
-## 下载
-
-   <a href="https://github.com/intelligent-long/Apollo/releases">发行版</a> 
+<h3>   <a href="https://github.com/intelligent-long/Apollo/releases">发行版</a> </h3>
 
 ## 部署
 > 可直接使用中央服务器
