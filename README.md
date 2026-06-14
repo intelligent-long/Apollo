@@ -6,7 +6,7 @@
 
 ## 下载
 
-<h3>   <a href="https://github.com/intelligent-long/Apollo/releases">发行版</a> </h3>
+   <a href="https://github.com/intelligent-long/Apollo/releases">发行版</a> 
 
 ## 部署
 > 可直接使用中央服务器
